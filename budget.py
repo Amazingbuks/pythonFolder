@@ -1,0 +1,7 @@
+budgetPlanner=input("Enter budget amount: ")
+foodBudget=int(input("Enter amount spent on food: "))
+transportBudget=int(input("Enter amount spent on transport: "))
+otherEpenses=int(input("Enter amount spent on other expenses: "))
+totalSpent=(foodBudget+transportBudget+otherEpenses)
+remaining=int(input("Enter amount remaining: "))
+print("totalSpent "  + budgetPlanner, totalSpent)
