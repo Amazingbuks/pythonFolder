@@ -1,0 +1,6 @@
+studentName=input("what is your name: " )
+januaryCount=int(input("Enter number of books borrowed: "))
+februaryCount=int(input("Enter number of books borrowed: "))
+marchCount=int(input("Enter number of books borrowed: "))
+totalCount=(januaryCount+februaryCount+marchCount)
+print("totalCount for" + studentName, totalCount)
