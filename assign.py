@@ -1,0 +1,5 @@
+studentName=input("what is your name: ")
+mathScore=int(input("Enter mathScore: "))
+englishScore=int(input("Enter englishScore: "))
+diffbtwScore=(mathScore-englishScore)
+print("diffbtwScore for" + studentName, diffbtwScore)
