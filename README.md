@@ -1,1 +1,1 @@
-this is my readme fo my project
+This is my Readme for my project
