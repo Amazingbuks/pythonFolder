@@ -1,1 +1,1 @@
-print("enter 2 numbers,print if the number is even or odd")
+print("enter 2 numbers")
